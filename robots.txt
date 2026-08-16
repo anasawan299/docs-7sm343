@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-4vjtst.juragan89a.space/sitemap.xml
